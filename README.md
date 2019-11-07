@@ -1,4 +1,9 @@
 # Venezuela
+
+Comparación de tres modelos para cartografiar carbono orgánico de suelos - caso Venezuela.
+
+Víctor Sevilla, Jesús Viloria, Juan Carlos Rey, Juan Comerma, Mario Guevara.
+
 Repositorio de datos, información y códigos de la Cartografía digital de carbono orgánico del suelo en Venezuela
 
 El objetivo fue cartografiar la reserva de Carbono Orgánico del Suelo (COS) en los primeros 30 cm de las 
